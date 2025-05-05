@@ -1,2 +1,2 @@
 # Amazon-Clone
-This is simple Amazon Colone 
+URL : https://amazon-clone-p77p.vercel.app/
